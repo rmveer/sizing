@@ -1,0 +1,7 @@
+Inside file we have givem EXPOSE 8080 but while running container its -P means anyport ??why its so
+ENV ARG
+
+how to connect my docker container to S3 bucket
+
+https://notepad.pw/2uzse2sa---> 02-04-2021
+https://notepad.pw/2uzse2sa
